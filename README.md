@@ -7,7 +7,7 @@
 <h1 style="color: #d47a9e; font-family: monospace; margin-bottom: 0;">~ b o b a s i p p ~</h1>
 
 <p style="font-size: 1.1rem; color: #b56576; margin-top: 4px;">
-  ~   a r m e d   w i t h   b o b a   a n d   a   k e y b o a r d. 🧋   ~
+  ~ a r m e d  |  w i t h  |  b o b a  |  a n d  |  a  |  k e y b o a r d. 🧋 ~
 </p>
 
 ---
