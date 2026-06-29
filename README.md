@@ -2,7 +2,7 @@
 
 <!-- Profile Picture Placeholder -->
 <!-- Replace the URL below with your actual image link -->
-<img src="https://via.placeholder.com/150x150.png?text=🐱+🧋" alt="Profile Picture" width="150" height="150" style="border-radius:50%; border: 3px solid #f8c8dc; box-shadow: 0 4px 12px rgba(248, 200, 220, 0.4);" />
+<img src="https://ibb.co/cfS0nt3" alt="Profile Picture" width="150" height="150" style="border-radius:50%; border: 3px solid #f8c8dc; box-shadow: 0 4px 12px rgba(248, 200, 220, 0.4);" />
 
 <h1 style="color: #d47a9e; font-family: monospace; margin-bottom: 0;">~ b o b a s i p p ~</h1>
 
